@@ -15,7 +15,7 @@ The official website for **Aero Club NMAMIT Nitte** — a student-run aviation a
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-org/aeroclub-main.git
+git clone https://github.com/badivana/aeroclub-main.git
 cd aeroclub-main
 
 # 2. Install dependencies
