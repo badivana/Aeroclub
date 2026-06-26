@@ -3690,7 +3690,7 @@ button {
     line-height: 40px;
 }
 .img-fluids{
-    background-image: url("../img/logo_aero.png");
+    background-image: url("../img/logo_aero.webp");
     height: 65px;
     width: 70px;
     background-size: cover;
@@ -4008,7 +4008,7 @@ button {
 
 .testimonial {
     margin-top: 80px;
-    background: url(../images/tes_bg.jpg);
+    background: url(../images/tes_bg.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
