@@ -1,0 +1,14 @@
+node_modules
+.vscode
+.git
+.gitignore
+README.md
+
+*.zip
+*.psd
+*.ai
+
+compress_images.py
+convert_to_webp.py
+
+compressed_new
